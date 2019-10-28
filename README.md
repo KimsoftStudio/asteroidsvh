@@ -8,8 +8,8 @@
 - Use Left and Right to rotate your ship.
 - Use Up to move forwards
 - Use "🞨" to shoot
-- Use "" to save your score
-- Use "" to skip saving
+- Use "○" to save your score
+- Use "△" to skip saving
 - Use "START" to begin the game
 - Use "SELECT" to view controls from the menu
 
