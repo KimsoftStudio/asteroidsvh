@@ -1,5 +1,5 @@
 ## Asteroids: Vita Homebrew Version
-### Atari's hit classic arcade game comes to the PS Vita sytem.
+### Atari's hit classic arcade game comes to the PS Vita system.
 
 - Set your score, always trying to beat your personal best.
 - Fun time waster while waiting around.
